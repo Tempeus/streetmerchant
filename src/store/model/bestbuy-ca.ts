@@ -70,6 +70,41 @@ export const BestBuyCa: Store = {
         'https://www.bestbuy.ca/en-ca/product/evga-geforce-rtx-3060-ti-ftw3-ultra-8gb-gddr6-video-card/15200164?intl=nosplash',
     },
     {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3060',
+      url:
+        'https://www.bestbuy.ca/en-ca/product/asus-tuf-gaming-geforce-rtx-3060-oc-12gb-gddr6x-video-card/15309513',
+    },
+    {
+      brand: 'asus',
+      model: 'tuf',
+      series: '3060',
+      url:
+        'https://www.bestbuy.ca/en-ca/product/asus-rog-strix-geforce-rtx-3060-oc-12gb-gddr6x-video-card/15309514',
+    },
+    {
+      brand: 'evga',
+      model: 'tuf',
+      series: '3060',
+      url:
+        'https://www.bestbuy.ca/en-ca/product/evga-nvidia-geforce-rtx-3060-xc-12gb-dddr6-video-card/15318940',
+    },
+    {
+      brand: 'evga',
+      model: 'tuf',
+      series: '3060ti',
+      url:
+        'https://www.bestbuy.ca/en-ca/product/evga-nvidia-geforce-rtx-3060-ti-ftw3-ultra-8gb-gddr6-video-card/15229237',
+    },
+    {
+      brand: 'msi',
+      model: 'tuf',
+      series: '3070',
+      url:
+        'https://www.bestbuy.ca/en-ca/product/msi-nvidia-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6-video-card/15038016',
+    },
+    {
       brand: 'zotac',
       model: 'trinity',
       series: '3080',
